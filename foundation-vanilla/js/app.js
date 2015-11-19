@@ -63,9 +63,13 @@ $(document).ready(function() {
           .mouseleave(collapse);
         
     }
-    
+
+	
+
     function collapse() {
-      $('body').addClass('nav-collapsed');
+		setTimeout(function () {
+        $('body').addClass('nav-collapsed');
+    }, 1000);
     }
     
     function expand() {
