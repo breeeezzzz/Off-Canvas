@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="css/app.css" />
     <link rel="stylesheet" href="css/style.css" />
     <script src="bower_components/modernizr/modernizr.js"></script>
-	<link href="bower_components/flat-ui/dist/css/flat-ui.css" rel="stylesheet">
   </head>
+  <body>
  
 <body class="example ">
 
@@ -64,30 +64,13 @@
 
 			</header>
 		
-			<div class="row">
-				<div class="large-12 columns">
-					<div class="panel">
-					<p>Let's see you dance, sucka, you ain't got nothin' on me</p>
+				<div class="row">
+					<div class="large-12 columns">
+						<div class="panel">
+						<p>Let's see you dance, sucka, you ain't got nothin' on me</p>
+						</div>
 					</div>
 				</div>
-			</div>			
-			
-		<div class="row">
-			<div class="large-12 columns">
-				<div class="large-3 columns">
-				  <a href="#fakelink" class="btn btn-block btn-lg btn-primary">Primary Button</a>
-				</div>
-				<div class="large-3 columns">
-				  <a href="#fakelink" class="btn btn-block btn-lg btn-warning">Warning Button</a>
-				</div>
-				<div class="large-3 columns">
-				  <a href="#fakelink" class="btn btn-block btn-lg btn-default">Default Button</a>
-				</div>
-				<div class="large-3 columns">
-				  <a href="#fakelink" class="btn btn-block btn-lg btn-danger">Danger Button</a>
-				</div>
-			</div>
-		</div>
 
 
 	</div><!-- END .content -->
